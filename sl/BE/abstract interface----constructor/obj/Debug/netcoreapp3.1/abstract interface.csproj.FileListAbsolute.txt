@@ -1,0 +1,39 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.genruntimeconfig.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.csprojAssemblyReference.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.AssemblyInfoInputs.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.AssemblyInfo.cs
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.csproj.CoreCompileInputs.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.dll
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.pdb
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.exe
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.deps.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.runtimeconfig.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.runtimeconfig.dev.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.dll
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\bin\Debug\netcoreapp3.1\abstract interface.pdb
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\abstract interface\obj\Debug\netcoreapp3.1\abstract interface.genruntimeconfig.cache
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\bin\Debug\netcoreapp3.1\abstract interface.exe
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\bin\Debug\netcoreapp3.1\abstract interface.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\bin\Debug\netcoreapp3.1\abstract interface.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\bin\Debug\netcoreapp3.1\abstract interface.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\bin\Debug\netcoreapp3.1\abstract interface.dll
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\bin\Debug\netcoreapp3.1\abstract interface.pdb
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\obj\Debug\netcoreapp3.1\abstract interface.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\obj\Debug\netcoreapp3.1\abstract interface.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\obj\Debug\netcoreapp3.1\abstract interface.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\obj\Debug\netcoreapp3.1\abstract interface.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\obj\Debug\netcoreapp3.1\abstract interface.dll
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\obj\Debug\netcoreapp3.1\abstract interface.pdb
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\abstract interface----constructor\obj\Debug\netcoreapp3.1\abstract interface.genruntimeconfig.cache

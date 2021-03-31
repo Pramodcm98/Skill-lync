@@ -1,0 +1,215 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background-image: url("background2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+.ownerpage
+{
+  font-size: 40px;
+  color:black;
+  margin: 0px 0px 50px 0px;
+  padding:40px 0px 40px 40px;
+  background-color: rgb(147, 153, 153,0.5);
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(83, 156, 156);
+}
+
+.website
+{
+  
+  padding: 0px 80px 80px 80px;
+  
+}
+
+.img-responsive
+{
+  float: left;
+  width: 290px;
+  height: 100px;
+  background-color: rgb(170, 197, 197,0.2);
+  border-radius: 15px;
+}
+
+.navigation ul li 
+{
+  display: inline;
+  float:right;
+  list-style-type: none;
+  padding: 20px;
+  
+}
+
+.navigation ul li a 
+{
+  text-decoration: none;
+  color:white;
+  font-size:30px;
+  font-family: Cooper;
+  font-weight:600;
+  
+}
+.navigation a:hover
+{
+  font-size: 40px;
+}
+
+#navHome
+{
+  opacity: 0.9;
+}
+/* .contactdrdown 
+{
+  text-decoration: none;
+  background-color:rgb(214, 209, 209);
+  font-family: Cooper;
+  font-size:23px;
+  font-weight:600;
+  color: white;
+  border-radius: 5px;
+  padding-left: 4px;  
+} */
+.contactdrdown option a
+{
+  background:rgba(255, 255, 255, 0.5);
+ 
+}
+
+#explore
+{
+font-size: 70px;
+font-family: Bahnschrift;
+color:white;
+margin-bottom: 0px;
+font-weight: 800;
+
+}
+
+#city
+{
+  margin-top: 1px;
+  margin-bottom: 30px;
+  color:white;
+  font-family:Trebuchet MS;
+  font-size: 50px;
+
+}
+
+#find
+{
+  font-size: 30px;
+  color:white;
+  font-family:Calibri Light (Headings);
+}
+
+.choice input
+{
+    width: 300px;
+    height:50px;
+    padding:5px;
+    float:left;
+    font-size: 20px;
+}
+.choice select
+{
+  width: 300px;
+  height:50px;
+  padding:5px;
+  float:left;
+  font-size: 20px;
+}
+.choice button
+{
+  width: 200px;
+  height:50px;
+  padding:5px;
+  float:left;
+  background-color:rgb(218, 47, 47);
+  color:black;
+  font-size: 20px;
+}
+
+.highlights p
+{
+  font-size: 30px;
+  color:white;
+  font-family:Calibri Light (Headings);
+}
+.highlights #restaurent
+{
+float: left;
+padding: 4px 20px 4px 20px; 
+margin-right: 20px;
+font-size: 25px;
+text-decoration: none;
+background-color:rgb(235, 235, 235);
+border-radius: 5px;
+text-align: center;
+
+}
+.highlights #hotel
+{
+float: left;
+padding: 4px 20px 4px 20px; 
+margin-right: 20px;
+font-size: 25px;
+text-decoration: none;
+background-color:rgb(235, 235, 235);
+border-radius: 5px;
+}
+.highlights #places
+{
+float: left;
+padding: 4px 20px 4px 20px; 
+margin-right: 20px;
+font-size: 25px;
+text-decoration: none;
+background-color:rgb(235, 235, 235);
+border-radius: 5px;
+}
+.highlights #shopping
+{
+float: left;
+padding: 4px 20px 4px 20px; 
+margin-right: 20px;
+font-size: 25px;
+text-decoration: none;
+background-color:rgb(235, 235, 235);
+border-radius: 5px;
+}
+
+.highlights a:hover
+{
+  color:rgb(255, 0, 0);
+}
+
+footer
+{
+  background-color: rgb(147, 153, 153,0.8);
+  padding:30px;
+  font-size: 30px;
+  font-family: Bahnschrift;
+  color:white;
+}
+.footers b
+{
+  font-family:Californian FB;
+  font-size: 40px;
+}
+.hotelsimage
+
+{
+  margin-top: 0%;
+  padding-top: 0%;
+  height: 100px; 
+  width: 160px;
+}
+.logos span
+{
+  padding-right: 70px;
+}
+

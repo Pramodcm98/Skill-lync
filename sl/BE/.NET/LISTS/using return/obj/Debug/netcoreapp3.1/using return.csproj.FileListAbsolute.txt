@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\bin\Debug\netcoreapp3.1\using return.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\bin\Debug\netcoreapp3.1\using return.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\bin\Debug\netcoreapp3.1\using return.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\bin\Debug\netcoreapp3.1\using return.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\bin\Debug\netcoreapp3.1\using return.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\bin\Debug\netcoreapp3.1\using return.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\obj\Debug\netcoreapp3.1\using return.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\obj\Debug\netcoreapp3.1\using return.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\obj\Debug\netcoreapp3.1\using return.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\obj\Debug\netcoreapp3.1\using return.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\obj\Debug\netcoreapp3.1\using return.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\obj\Debug\netcoreapp3.1\using return.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\using return\obj\Debug\netcoreapp3.1\using return.genruntimeconfig.cache

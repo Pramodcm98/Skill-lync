@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\bin\Debug\netcoreapp3.1\poly -overriding.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\bin\Debug\netcoreapp3.1\poly -overriding.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\bin\Debug\netcoreapp3.1\poly -overriding.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\bin\Debug\netcoreapp3.1\poly -overriding.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\bin\Debug\netcoreapp3.1\poly -overriding.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\bin\Debug\netcoreapp3.1\poly -overriding.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\obj\Debug\netcoreapp3.1\poly -overriding.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\obj\Debug\netcoreapp3.1\poly -overriding.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\obj\Debug\netcoreapp3.1\poly -overriding.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\obj\Debug\netcoreapp3.1\poly -overriding.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\obj\Debug\netcoreapp3.1\poly -overriding.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\obj\Debug\netcoreapp3.1\poly -overriding.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\poly -overriding\obj\Debug\netcoreapp3.1\poly -overriding.genruntimeconfig.cache

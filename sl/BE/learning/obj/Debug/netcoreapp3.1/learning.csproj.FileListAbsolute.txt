@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\bin\Debug\netcoreapp3.1\learning.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\bin\Debug\netcoreapp3.1\learning.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\bin\Debug\netcoreapp3.1\learning.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\bin\Debug\netcoreapp3.1\learning.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\bin\Debug\netcoreapp3.1\learning.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\bin\Debug\netcoreapp3.1\learning.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\obj\Debug\netcoreapp3.1\learning.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\obj\Debug\netcoreapp3.1\learning.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\obj\Debug\netcoreapp3.1\learning.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\obj\Debug\netcoreapp3.1\learning.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\obj\Debug\netcoreapp3.1\learning.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\obj\Debug\netcoreapp3.1\learning.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\learning\obj\Debug\netcoreapp3.1\learning.genruntimeconfig.cache

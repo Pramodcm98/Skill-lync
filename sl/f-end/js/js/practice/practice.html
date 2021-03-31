@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Practice work
+    </title>
+
+    <link rel="stylesheet" href="practice.css">
+    <script src="practise.js"></script>
+    <!--INTERNAL STYLING-->
+    <style>
+        div {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <br><br><br>
+
+    <input type="button" value="sendGETrequest" onclick="getRequest()" />
+    <table>
+        <thead>
+            <tr>
+                <th align="left">Name</th>
+                <th align="left">Age</th>
+                <th align="left">Qualification</th>
+                <th align="left">Hobbies</th>
+                <th align="left">Address</th>
+            </tr>
+        </thead>
+        <tbody id="ajax"></tbody>
+    </table>
+  
+
+    <br><br><br>
+
+    <!-- DROPDOWN LIST FOR COUNTRY AND STATE-->
+
+    <select id="country" onchange="populateState(this.value)">  <!--populateState is function name  -->
+        <option value="">Select Country</option>
+    </select>
+
+    <select id="state">
+        <option value="">Select State</option>
+    </select>
+
+
+    <br><br><br>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+C:\Users\Abhilash Raghunathan\Desktop\bike\obj\Debug\netcoreapp3.1\bike.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\bike\obj\Debug\netcoreapp3.1\bike.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\bike\obj\Debug\netcoreapp3.1\bike.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\bike\obj\Debug\netcoreapp3.1\bike.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\bike\obj\Debug\netcoreapp3.1\bike.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\bike.exe
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\bike.deps.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\bike.runtimeconfig.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\bike.runtimeconfig.dev.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\bike.dll
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\bin\Debug\netcoreapp3.1\bike.pdb
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.csprojAssemblyReference.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.AssemblyInfoInputs.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.AssemblyInfo.cs
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.csproj.CoreCompileInputs.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.RazorTargetAssemblyInfo.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\staticwebassets\bike.StaticWebAssets.Manifest.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\staticwebassets\bike.StaticWebAssets.xml
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.dll
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.pdb
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\bike\obj\Debug\netcoreapp3.1\bike.genruntimeconfig.cache

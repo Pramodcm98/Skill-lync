@@ -1,0 +1,40 @@
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\item.exe
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\item.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\item.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\item.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\item.dll
+C:\Users\Abhilash Raghunathan\Desktop\item\bin\Debug\netcoreapp3.1\item.pdb
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.RazorTargetAssemblyInfo.cache
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\staticwebassets\item.StaticWebAssets.Manifest.cache
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\staticwebassets\item.StaticWebAssets.xml
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.dll
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.pdb
+C:\Users\Abhilash Raghunathan\Desktop\item\obj\Debug\netcoreapp3.1\item.genruntimeconfig.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\item.exe
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\item.deps.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\item.runtimeconfig.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\item.runtimeconfig.dev.json
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\item.dll
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\bin\Debug\netcoreapp3.1\item.pdb
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.csprojAssemblyReference.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.AssemblyInfoInputs.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.AssemblyInfo.cs
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.csproj.CoreCompileInputs.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.RazorTargetAssemblyInfo.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\staticwebassets\item.StaticWebAssets.Manifest.cache
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\staticwebassets\item.StaticWebAssets.xml
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.dll
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.pdb
+C:\Users\Skills_Lync\Desktop\course\my files\sl\BE\API\dependency injection\New folder\item\obj\Debug\netcoreapp3.1\item.genruntimeconfig.cache

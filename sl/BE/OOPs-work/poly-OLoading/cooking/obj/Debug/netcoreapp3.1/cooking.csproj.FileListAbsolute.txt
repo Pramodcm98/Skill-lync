@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\bin\Debug\netcoreapp3.1\cooking.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\bin\Debug\netcoreapp3.1\cooking.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\bin\Debug\netcoreapp3.1\cooking.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\bin\Debug\netcoreapp3.1\cooking.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\bin\Debug\netcoreapp3.1\cooking.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\bin\Debug\netcoreapp3.1\cooking.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\obj\Debug\netcoreapp3.1\cooking.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\obj\Debug\netcoreapp3.1\cooking.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\obj\Debug\netcoreapp3.1\cooking.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\obj\Debug\netcoreapp3.1\cooking.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\obj\Debug\netcoreapp3.1\cooking.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\obj\Debug\netcoreapp3.1\cooking.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\cooking\obj\Debug\netcoreapp3.1\cooking.genruntimeconfig.cache

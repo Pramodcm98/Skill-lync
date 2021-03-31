@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\bin\Debug\netcoreapp3.1\Swimming.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\bin\Debug\netcoreapp3.1\Swimming.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\bin\Debug\netcoreapp3.1\Swimming.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\bin\Debug\netcoreapp3.1\Swimming.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\bin\Debug\netcoreapp3.1\Swimming.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\bin\Debug\netcoreapp3.1\Swimming.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\obj\Debug\netcoreapp3.1\Swimming.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\obj\Debug\netcoreapp3.1\Swimming.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\obj\Debug\netcoreapp3.1\Swimming.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\obj\Debug\netcoreapp3.1\Swimming.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\obj\Debug\netcoreapp3.1\Swimming.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\obj\Debug\netcoreapp3.1\Swimming.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\Swimming\obj\Debug\netcoreapp3.1\Swimming.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        UserId
+    </title>
+    <script src="UserId.js"> </script>
+
+ <style>
+     body{
+        color:blue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+        text-align: center;
+     }
+ </style>
+</head>
+
+<body>
+    <input type="radio" value="free" name="payment" checked onclick="showHidePaymentDiv(this.value)" />FREE
+    <input type="radio" value="premium" name="payment" onclick="showHidePaymentDiv(this.value)" />PREMIUM
+    <input type="radio" value="enterprise" name="payment" onclick="showHidePaymentDiv(this.value)" />ENTERPRISE
+    <input type="radio" value="platinum" name="payment" onclick="showHidePaymentDiv(this.value)" />PLATINUM
+
+    <div id="payment_div" style="display: none;">
+        <input type="number" oninput="calculateTotal()" id="text_val">
+        X
+        <span id="cost"></span>
+        $
+        =
+        <span id="total"></span>
+        $
+    </div>
+
+    <br><br>
+    Name:
+    <input type="text" placeholder="First Name" id="fname">
+    <input type="text" placeholder="Middle Name" id="mname">
+    <input type="text" placeholder="Last Name" id="lname">
+    <input type="button" value="Generate" onclick="generateOptions()">
+    <br><br>
+    UserName:
+    <input type="text" id="uname" placeholder="Username" disabled>
+    <ol id="ul_id"></ol>
+
+</body>
+
+</html>

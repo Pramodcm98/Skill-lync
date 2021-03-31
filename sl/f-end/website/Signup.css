@@ -1,0 +1,69 @@
+
+body
+{
+    background-color: rgba(223,161,32,255);
+    background-image: linear-gradient(to right,  #dfa120,#aa647c );
+    
+}
+
+.mylogin
+{
+    border: 3px solid burlywood;
+    border-radius: 15px;
+    background-color: white;
+    box-sizing: border-box;
+    margin:auto;
+    margin-top: 10px;
+
+    width: 400px;
+    height: 630px;
+    
+
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding:40px 20px 10px 20px;
+    
+}
+
+h1
+{
+    font-size:40px;
+    margin-top: 40px;
+}
+
+.details
+{
+    margin-top: 70px;
+}
+
+
+.buttons
+{
+    
+    background-image: linear-gradient(to right,  #dfa120,#aa647c );
+    cursor: pointer;
+    padding: 10px 10px;
+    width: 42%;
+    color: white;
+}
+
+.details input
+{
+    width: 280px;
+    height:30px;
+    padding:5px
+}
+
+.forgot a,.signup a
+{
+text-decoration: none;
+cursor:progress;
+}
+
+
+
+
+
+
+

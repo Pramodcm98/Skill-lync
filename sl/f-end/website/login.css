@@ -1,0 +1,93 @@
+
+body
+{
+   
+    background-image: linear-gradient(to right,  #dfa120,#aa647c );
+    
+}
+
+.mylogin
+{
+    border: 3px solid burlywood;
+    border-radius: 15px;
+    background-color: white;
+    box-sizing: border-box;
+    margin:auto;
+    margin-top: 10px;
+
+    width: 400px;
+    height: 630px;
+    
+
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding:40px 20px 10px 20px;
+    
+}
+
+h1
+{
+    font-size:40px;
+    margin-top: 40px;
+}
+
+.inpfields
+{
+    margin-top: 70px;
+}
+.details 
+{
+    width: 280px;
+    height:30px;
+    padding:5px
+}
+#logbutton
+{
+    height: 30px;
+    width: 295px;
+    background-color: rgb(179, 162, 151,0.5);
+    border-radius:20px ;
+    font-size: 16px;
+    font-family:Calibri (Body);
+    font-weight: bold;
+}
+#logbutton:hover
+{
+background-color: rgb(145, 126, 126);
+cursor: pointer;
+border-radius:20px ;
+}
+#logbutton:active
+{
+    background-color: rgb(88, 59, 59);
+    cursor: pointer;
+    border-radius:20px ;
+}
+
+
+.buttons
+{
+    
+    background-image: linear-gradient(to right,  #dfa120,#aa647c );
+    cursor: pointer;
+    padding: 10px 10px;
+    width: 83%;
+    color: white;
+
+}
+.forgot a,.signup a
+{
+    text-decoration: none;
+    cursor:progress;
+}
+
+
+
+
+
+
+
+
+
+

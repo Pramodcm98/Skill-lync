@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\obj\Debug\netcoreapp3.1\abstract functions.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\obj\Debug\netcoreapp3.1\abstract functions.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\obj\Debug\netcoreapp3.1\abstract functions.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\obj\Debug\netcoreapp3.1\abstract functions.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\bin\Debug\netcoreapp3.1\abstract functions.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\bin\Debug\netcoreapp3.1\abstract functions.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\bin\Debug\netcoreapp3.1\abstract functions.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\bin\Debug\netcoreapp3.1\abstract functions.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\bin\Debug\netcoreapp3.1\abstract functions.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\bin\Debug\netcoreapp3.1\abstract functions.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\obj\Debug\netcoreapp3.1\abstract functions.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\obj\Debug\netcoreapp3.1\abstract functions.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\abstract functions\obj\Debug\netcoreapp3.1\abstract functions.genruntimeconfig.cache

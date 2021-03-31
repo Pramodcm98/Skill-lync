@@ -1,0 +1,26 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\obj\Debug\netcoreapp3.1\26.02.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\obj\Debug\netcoreapp3.1\26.02.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\obj\Debug\netcoreapp3.1\26.02.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\obj\Debug\netcoreapp3.1\26.02.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\bin\Debug\netcoreapp3.1\26.02.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\bin\Debug\netcoreapp3.1\26.02.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\bin\Debug\netcoreapp3.1\26.02.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\bin\Debug\netcoreapp3.1\26.02.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\bin\Debug\netcoreapp3.1\26.02.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\bin\Debug\netcoreapp3.1\26.02.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\obj\Debug\netcoreapp3.1\26.02.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\obj\Debug\netcoreapp3.1\26.02.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\26.02\obj\Debug\netcoreapp3.1\26.02.genruntimeconfig.cache
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\bin\Debug\netcoreapp3.1\26.02.exe
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\bin\Debug\netcoreapp3.1\26.02.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\bin\Debug\netcoreapp3.1\26.02.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\bin\Debug\netcoreapp3.1\26.02.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\bin\Debug\netcoreapp3.1\26.02.dll
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\bin\Debug\netcoreapp3.1\26.02.pdb
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\obj\Debug\netcoreapp3.1\26.02.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\obj\Debug\netcoreapp3.1\26.02.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\obj\Debug\netcoreapp3.1\26.02.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\obj\Debug\netcoreapp3.1\26.02.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\obj\Debug\netcoreapp3.1\26.02.dll
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\obj\Debug\netcoreapp3.1\26.02.pdb
+C:\Users\Abhilash Raghunathan\Desktop\course\my files\sl\BE\oops full\26.02\obj\Debug\netcoreapp3.1\26.02.genruntimeconfig.cache

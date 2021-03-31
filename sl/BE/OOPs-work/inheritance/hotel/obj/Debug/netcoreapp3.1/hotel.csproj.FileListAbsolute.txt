@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\obj\Debug\netcoreapp3.1\hotel.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\obj\Debug\netcoreapp3.1\hotel.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\obj\Debug\netcoreapp3.1\hotel.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\obj\Debug\netcoreapp3.1\hotel.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\bin\Debug\netcoreapp3.1\hotel.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\bin\Debug\netcoreapp3.1\hotel.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\bin\Debug\netcoreapp3.1\hotel.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\bin\Debug\netcoreapp3.1\hotel.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\bin\Debug\netcoreapp3.1\hotel.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\bin\Debug\netcoreapp3.1\hotel.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\obj\Debug\netcoreapp3.1\hotel.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\obj\Debug\netcoreapp3.1\hotel.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\hotel\obj\Debug\netcoreapp3.1\hotel.genruntimeconfig.cache

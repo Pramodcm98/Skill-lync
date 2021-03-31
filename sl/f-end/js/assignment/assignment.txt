@@ -1,0 +1,12 @@
+Check whether the given number is palindrome------
+Check whether the given number is a strong number----
+Check whether the given number is an Armstrong number---
+Get the number of rows & columns and print multiplication table---
+Print the terms of fibonacci series as an ordered list---
+Find the leap years in a given range of years--
+Find the min & max numbers of an array without sorting.--
+Write a JavaScript function to get the last element of an array.--
+     Passing a parameter 'n' will return the last 'n' elements of the array---
+Write a JavaScript program to find the most frequent item of an array----------------------------------------
+Write a JavaScript program which accepts a string as input and swap the case of each character-------
+     For example if you input 'The Quick Brown Fox' the output should be 'tHE qUICK bROWN fOX'.

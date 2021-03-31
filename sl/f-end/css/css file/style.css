@@ -1,0 +1,20 @@
+h1{
+ color:blueviolet;
+ font-size:30spx;
+}
+div 
+{
+    background-color: green;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+  
+div:hover 
+{
+    background-color: blue;
+}
+.highlight:hover {
+    text-align: center;
+    color: red;
+    }

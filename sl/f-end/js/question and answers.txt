@@ -1,0 +1,48 @@
+JAVA SCRIPT
+
+1)EVENT BUBBLING
+  -The order in which events are working
+  -Triggering the innermost items first then going to outer or parent when 
+   one element is nested inside another element ortags
+
+2)Nan
+-Actually considered as a bug in js
+-NaN-not a number ,but is number datatype
+-cannot be represented as meaningfullnumber
+-we can use it to check whether given is number or not 
+ isNan(value)--boolean result
+
+3)BREAK AND CONTINUE
+-
+BREAK- To jump out of the current loop without executing the remaining statements
+CONTINUE- Skips remaining loop statements and continues with next iteration in the loop
+
+4)USE OF typeof operator
+  return datatype of an element as string datatype
+
+5)Types of error in JS
+-Syntax error-error in syntax during interpret time
+-Run-time error-during execution time
+-logical error-because oflogical mistake,herd to find out,
+-Eval
+-Reference
+-Type error
+-URI error
+-range error
+
+6)Use of strict mode in js
+-sometimes js display result even if there is an error,for avoiding this
+ give "strict" 
+-in this mode code will throw all type of error
+-we cannot assign a variable before declaring it in strict mode
+
+7)Can you use cookies in js
+-cookies can be created, read and erased by js
+-accessed by using document.cookie
+
+8)Difference between Null and Undefined(both means absence of value)
+-null= no value,defined a variable but not assigned a value to it
+-undefined= variable is declared but not defined
+
+
+  

@@ -1,0 +1,363 @@
+body
+{
+  margin: 0;
+  padding: 0;
+
+}
+.main
+{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+.ownerpage
+{
+  font-size: 40px;
+  margin: 0px 0px 50px 0px;
+  padding:40px 0px 40px 40px;
+  background-color: rgb(147, 153, 153,0.5);
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(49, 88, 88);
+}
+
+.website
+{
+  
+  padding: 0px 80px 80px 80px;
+  
+}
+
+.img-responsive
+{
+  float: left;
+  width: 290px;
+  height: 100px;
+  background-color: rgb(170, 197, 197,0.2);
+  border-radius: 15px;
+}
+
+.navigation ul li 
+{
+  display: inline;
+  float:right;
+  list-style-type: none;
+  padding: 20px;
+  
+}
+
+.navigation ul li a 
+{
+  text-decoration: none;
+  color:white;
+  font-size:30px;
+  font-family: Arial;
+  font-weight:600;
+  
+}
+.navigation a:hover
+{
+  color:rgb(72, 94, 128);
+}
+
+#navHome
+{
+  opacity: 0.9;
+}
+#home
+{
+  padding-right: 25px;
+  height: 16px;
+  width: 16px;
+}
+#group
+{
+  padding-right: 8px;
+  
+}
+#abouts
+{
+  padding-right: 10px;
+  height: 18px;
+  width: 8px;
+}
+.contactdrdown option a
+{
+  background:rgba(255, 255, 255, 0.5);
+ 
+}
+
+#explore
+{
+font-size: 70px;
+font-family: Bahnschrift;
+color:white;
+margin-bottom: 0px;
+font-weight: 800;
+
+}
+
+#city
+{
+  margin-top: 1px;
+  margin-bottom: 30px;
+  color:white;
+  font-family:Trebuchet MS;
+  font-size: 50px;
+
+}
+
+#find
+{
+  font-size: 30px;
+  color:white;
+  font-family:Calibri Light (Headings);
+}
+
+.choice input
+{
+    width: 300px;
+    height:50px;
+    padding:5px;
+    float:left;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 0px;
+    outline: none;
+    margin-left: 8px;
+    text-align: center;
+}
+.choice select
+{
+  width: 300px;
+  height:50px;
+  padding:5px;
+  float:left;
+  font-size: 20px;
+  border-radius: 20px;
+  outline: none;
+  margin-left: 8px;
+  cursor: pointer;
+  
+}
+.choice button
+{
+  width: 200px;
+  height:50px;
+  padding:5px;
+  float:left;
+  background-color:rgb(221, 22, 22);
+  color:black;
+  font-size: 25px;
+  border: 0px;
+  border-radius: 25px;
+  margin-left: 8px;
+  outline: none;
+  cursor: pointer;
+}
+.choice button:hover
+{
+  background-color:rgb(238, 14, 14);
+  font-size: 30px;
+}
+
+.highlights p
+{
+  font-size: 30px;
+  color:white;
+  font-family:Calibri Light (Headings);
+}
+.highlights a
+{
+float: left;
+padding: 4px 20px 4px 20px; 
+margin-right: 20px;
+font-size: 25px;
+text-decoration: none;
+background-color:rgb(235, 235, 235);
+border-radius: 5px;
+text-align: center;
+font-family: cooper;
+}
+
+.highlights a:hover
+{
+  background-color:rgba(16, 154, 235, 0.7);
+  color: rgb(255, 0, 0);
+
+}
+
+footer
+{
+  background-color: rgb(147, 153, 153,0.8);
+  padding:30px;
+  font-size: 40px;
+  font-family:Californian FB;
+  color:white;
+}
+.hotelsimage
+{
+  margin-top: 0%;
+  padding-top: 0%;
+  height: 100px; 
+  width: 160px;
+}
+.logos span
+{
+  padding-right: 70px;
+}
+
+.mylogin
+{
+background-color: rgb(214, 211, 205,0.6);
+padding: 120px;
+text-align: center;
+
+}
+#already
+{
+  float:left;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(43, 43, 70);
+
+}
+#login
+{
+  font-size: 90px;
+  color: rgb(43, 43, 70);
+  padding:10px 0px 30px 0px;
+  /* margin: 0px; */
+  font-family: Arial;
+}
+
+.details
+{
+width: 400px;
+height:40px;
+border-radius: 15px;
+outline: none;
+text-align: center;
+font-size: 21px;
+}
+#logbutton
+{
+  width: 200px;
+  height:50px;
+  border-radius: 15px;
+  outline: none;
+  cursor: pointer;
+  font-size: 21px;
+}
+#logbutton:hover
+{
+  font-size: 26px;
+  background-color: rgb(108, 219, 223);
+}
+
+@media only screen and (max-width: 768px) 
+{
+  .ownerpage
+  {
+    font-size: 30px;
+    margin: 0px 0px 50px 0px;
+    padding:20px 0px 20px 20px;
+  }
+  .website
+  {
+    padding: 0px 15px 15px 15px;
+  }
+  .img-responsive
+{
+  margin-left: 37%;
+  margin-right: 50%;
+  margin-top: 0px;
+  padding-top: 0px;
+  width: 170px;
+  height: 70px;
+  background-color: rgb(170, 197, 197,0.2);
+  border-radius: 15px;
+}
+#tour, #navHome, #about
+{
+  display: none;
+}
+#contact
+{
+  width:100%; 
+  text-align:center;
+  display: block;
+  font-size: 50px;
+  padding-top: 22px;
+  color: rgb(214, 18, 18);
+  font-family: cooper;
+}
+#contact :hover
+{
+  color: rgb(255, 0, 0);
+  font-size: 55px;
+}
+.img-responsive:hover
+{
+  width: 173px;
+  height: 73px;
+}
+.heading
+{
+  text-align: center;
+}
+.choice
+{
+ margin-left: 35px;
+ padding-bottom: 0px;
+}
+.choice button
+{
+  margin: 20px 220px 0px 220px;
+}
+.highlights p
+{
+  margin: 40px 0px 40px 0px;
+  text-align: center;
+  display: block;
+  padding-top: 40px;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+  font-family: cooper;
+}
+
+.highlights div
+{
+margin-left: 65px;
+}
+.highlights a
+{
+  font-size: 22px;
+}
+#already
+{
+  margin-left:45px;
+}
+footer
+{
+  text-align: center;
+ 
+}
+.logos
+{
+  margin-left:37px;
+}
+footer img
+{
+  height: 70px;
+  width:70px;
+  
+}
+.hotelsimage
+{
+  height: 80px; 
+  width: 110px;
+}
+
+}

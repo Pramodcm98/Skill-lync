@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\bin\Debug\netcoreapp3.1\a9.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\bin\Debug\netcoreapp3.1\a9.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\bin\Debug\netcoreapp3.1\a9.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\bin\Debug\netcoreapp3.1\a9.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\bin\Debug\netcoreapp3.1\a9.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\bin\Debug\netcoreapp3.1\a9.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\obj\Debug\netcoreapp3.1\a9.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\obj\Debug\netcoreapp3.1\a9.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\obj\Debug\netcoreapp3.1\a9.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\obj\Debug\netcoreapp3.1\a9.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\obj\Debug\netcoreapp3.1\a9.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\obj\Debug\netcoreapp3.1\a9.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\a9\obj\Debug\netcoreapp3.1\a9.genruntimeconfig.cache

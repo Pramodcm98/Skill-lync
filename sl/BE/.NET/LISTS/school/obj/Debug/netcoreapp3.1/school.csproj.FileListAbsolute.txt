@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\bin\Debug\netcoreapp3.1\school.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\bin\Debug\netcoreapp3.1\school.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\bin\Debug\netcoreapp3.1\school.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\bin\Debug\netcoreapp3.1\school.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\bin\Debug\netcoreapp3.1\school.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\bin\Debug\netcoreapp3.1\school.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\obj\Debug\netcoreapp3.1\school.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\obj\Debug\netcoreapp3.1\school.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\obj\Debug\netcoreapp3.1\school.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\obj\Debug\netcoreapp3.1\school.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\obj\Debug\netcoreapp3.1\school.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\obj\Debug\netcoreapp3.1\school.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\.NET\LISTS\school\obj\Debug\netcoreapp3.1\school.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\bin\Debug\netcoreapp3.1\house.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\bin\Debug\netcoreapp3.1\house.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\bin\Debug\netcoreapp3.1\house.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\bin\Debug\netcoreapp3.1\house.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\bin\Debug\netcoreapp3.1\house.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\bin\Debug\netcoreapp3.1\house.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\obj\Debug\netcoreapp3.1\house.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\obj\Debug\netcoreapp3.1\house.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\obj\Debug\netcoreapp3.1\house.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\obj\Debug\netcoreapp3.1\house.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\obj\Debug\netcoreapp3.1\house.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\obj\Debug\netcoreapp3.1\house.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\inheritance\house\obj\Debug\netcoreapp3.1\house.genruntimeconfig.cache

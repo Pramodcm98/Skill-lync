@@ -1,0 +1,26 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\bin\Debug\netcoreapp3.1\get a value.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\bin\Debug\netcoreapp3.1\get a value.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\bin\Debug\netcoreapp3.1\get a value.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\bin\Debug\netcoreapp3.1\get a value.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\bin\Debug\netcoreapp3.1\get a value.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\bin\Debug\netcoreapp3.1\get a value.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\obj\Debug\netcoreapp3.1\get a value.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\obj\Debug\netcoreapp3.1\get a value.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\obj\Debug\netcoreapp3.1\get a value.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\obj\Debug\netcoreapp3.1\get a value.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\obj\Debug\netcoreapp3.1\get a value.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\obj\Debug\netcoreapp3.1\get a value.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\get a value\obj\Debug\netcoreapp3.1\get a value.genruntimeconfig.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\bin\Debug\netcoreapp3.1\get a value.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\bin\Debug\netcoreapp3.1\get a value.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\bin\Debug\netcoreapp3.1\get a value.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\bin\Debug\netcoreapp3.1\get a value.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\bin\Debug\netcoreapp3.1\get a value.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\bin\Debug\netcoreapp3.1\get a value.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\obj\Debug\netcoreapp3.1\get a value.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\obj\Debug\netcoreapp3.1\get a value.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\obj\Debug\netcoreapp3.1\get a value.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\obj\Debug\netcoreapp3.1\get a value.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\obj\Debug\netcoreapp3.1\get a value.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\obj\Debug\netcoreapp3.1\get a value.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-ORiding\DOUBLING\obj\Debug\netcoreapp3.1\get a value.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\bin\Debug\netcoreapp3.1\car.exe
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\bin\Debug\netcoreapp3.1\car.deps.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\bin\Debug\netcoreapp3.1\car.runtimeconfig.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\bin\Debug\netcoreapp3.1\car.runtimeconfig.dev.json
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\bin\Debug\netcoreapp3.1\car.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\bin\Debug\netcoreapp3.1\car.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\obj\Debug\netcoreapp3.1\car.csprojAssemblyReference.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\obj\Debug\netcoreapp3.1\car.AssemblyInfoInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\obj\Debug\netcoreapp3.1\car.AssemblyInfo.cs
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\obj\Debug\netcoreapp3.1\car.csproj.CoreCompileInputs.cache
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\obj\Debug\netcoreapp3.1\car.dll
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\obj\Debug\netcoreapp3.1\car.pdb
+C:\Users\Abhilash Raghunathan\Desktop\my files\sl\BE\OOPs-work\poly-OLoading\car\obj\Debug\netcoreapp3.1\car.genruntimeconfig.cache

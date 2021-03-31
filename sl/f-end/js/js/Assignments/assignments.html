@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Assignments
+    </title>
+    <script src="assignments.js"> </script>
+
+    <style>
+        
+    </style>
+
+</head>
+
+<body>
+    
+    <h1>THIS IS JS ASSIGNMENTS</h1>
+<ol id="fib"></ol>
+
+
+
+<ul id= "array"></ul>
+
+
+
+<br><br><br>
+
+<input type="button" value="sendGETrequest" onclick="getRequest()" />
+<table>
+    <thead>
+        <tr>
+            <th align="left">Name</th>
+            <th align="left">Age</th>
+            <th align="left">Qualification</th>
+            <th align="left">Hobbies</th>
+            <th align="left">Address</th>
+        </tr>
+    </thead>
+    <tbody id="ajax"></tbody>
+</table>
+
+
+<br><br><br><br><br><br>
+
+<!-- <h1>Javascript</h1> 
+    <h1 id="myid">This will change</h1>
+
+    <button type="button" onclick="document.getElementById('myid').innerHTML='Learning javascript'">clickhere</botton>-->
+
+        <h2 id="newid">MyText</h2>
+        <p id="para">paragraph</p>
+    
+        <button type="button" onclick="Jsfunction()">click Here to change</button>
+        <button type="button" onclick="window.print()">print page</button>
+        <button type="button " onclick="document.getElementById('para').innerHTML='Paragraph changed'">click to
+            change</button>
+    
+        <p id="demo"></p>
+        <script>
+            var txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            var sln = txt.length;
+            document.getElementById("demo").innerHTML = sln;
+        </script>
+    
+        <p id="lngth"></p>
+    
+    
+
+        
+
+        <br><br><br><br><br><br>
+
+
+<!-- DROPDOWN LIST FOR COUNTRY AND STATE-->
+
+<select id="country" onchange="populateState(this.value)">  <!--populateState is function name  -->
+    <option value="">Select Country</option>
+</select>
+
+<select id="state">
+    <option value="">Select State</option>
+</select>
+
+
+
+
+
+<br><br><br><br><br><br>
+
+
+
+
+
+
+<!-- Qno 12,13  AJAX-->
+
+<br />
+<input type="button" value="Send GET request" onclick="Getrequest()"/>
+<table>
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>name</th>
+            <th>username</th>
+            <th>email</th>
+            <th>address</th>
+            
+        </tr>
+    </thead>
+    <tbody id="ajax_tbody1"></tbody>
+    
+</table>
+</body>
+
+</html>
